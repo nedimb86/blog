@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Blog
+          Blog blog
         </Link>
       </h1>
     </div>
